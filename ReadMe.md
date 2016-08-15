@@ -1,3 +1,9 @@
+
+[![Build Status](https://travis-ci.org/arpitha-v/Accumulator-java.svg)](https://travis-ci.org/arpitha-v/Accumulator-java)
+
+<!--[//]: # [![Coverage Status](https://coveralls.io/repos/github/pravreddy/crawler_java/badge.svg?branch=master)](https://coveralls.io/github/pravreddy/crawler_java?branch=master)-->
+[![codecov](https://codecov.io/gh/arpitha-v/Accumulator-java/branch/master/graph/badge.svg)](https://codecov.io/gh/arpitha-v/Accumulator-java)
+
 # Accumulator
 
 About Accumulator
