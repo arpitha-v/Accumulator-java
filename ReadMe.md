@@ -4,6 +4,7 @@ About Accumulator
 -------------
 Accumulates one or more variables together and maintains a running sum of the
 elements.
+
  Updates to this total sum are done via the accumulate method.
  The current value of the running total is returned by calling getTotal.
  The initial value of the running sum is 0.The total sum can be set to 0 by calling reset.
